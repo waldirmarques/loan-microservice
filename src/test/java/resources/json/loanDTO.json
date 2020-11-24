@@ -1,0 +1,5 @@
+{
+  "userApp": "002",
+  "books": ["002", "003"],
+  "loanTime": "10 dias"
+}
